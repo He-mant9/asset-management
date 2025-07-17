@@ -20,7 +20,7 @@
     "dotenv": "7.0.0",
     "express": "^4.16.4",
     "express-sslify": "^1.2.0",
-    "tubular-nodejs": "^1.0.17"
+    "tubular-nodejs": "^1.0.18"
   },
   "devDependencies": {
     "concurrently": "^4.0.1",
