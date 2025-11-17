@@ -7,7 +7,7 @@
     "@material-ui/core": "^4.9.14",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "4.0.0",
     "tubular-react": "4.1.26"
   },
   "scripts": {
